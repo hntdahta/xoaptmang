@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.exe
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.deps.json
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.runtimeconfig.json
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.dll
+C:\Users\Administrator\source\repos\xoaptmang\bin\Debug\netcoreapp3.1\xoaptmang.pdb
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.dll
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.pdb
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\xoaptmang\obj\Debug\netcoreapp3.1\xoaptmang.csprojAssemblyReference.cache
