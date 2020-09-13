@@ -13,8 +13,8 @@ namespace xoaptmang
             int k;
             NhapK(out k, arr.Length);
             Xoa(arr, k);
-            Console.WriteLine("Mảng sau khi xóa: ");
-            HienMang(arr, arr.Length - 1);
+            Console.WriteLine("Mảng sau khi thực hiện: ");
+            HienMang(arr, arr.Length -1);
         }
 
         static bool Xoa(int[] arr, int k)
@@ -22,8 +22,9 @@ namespace xoaptmang
             bool found = false;
             for (int i = 0; i < arr.Length; ++i)
             {
-                if (found)
-                { 
+                if (arr[i] != k)
+                {
+                    Console.WriteLine("Loi, x khong co trong mang!");
                     arr[i - 1] = arr[i];
                 }
                 else if (arr[i] == k)
@@ -38,13 +39,12 @@ namespace xoaptmang
 
         static void NhapK(out int k, int n)
         {
-            k = -1;
-            while (k < 0 || k >= n)
-            {
+
                 Console.OutputEncoding = Encoding.UTF8;
                 Console.WriteLine("Nhập phần tử X có trong mảng");
                 k = Convert.ToInt32(Console.ReadLine());
-            }
+            
+         
         }
 
         static void HienMang(int[] arr, int size)
